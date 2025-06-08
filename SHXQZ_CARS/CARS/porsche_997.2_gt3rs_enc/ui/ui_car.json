@@ -1,5 +1,5 @@
 {
-  "name": "Porsche 997.2 GT3RS '09",
+  "name": "Porsche 997.2 GT3 RS '09",
   "brand": "Porsche",
   "description": "Brand Porsche<br>Model 911<br>Generation 911 (997, facelift 2008)<br>Modification (Engine) GT3 RS 3.8 (450 Hp)<br>Start of production 2009 year<br>End of production 2012 year<br>Powertrain Architecture Internal Combustion engine<br>Body type Coupe<br>Seats 2-4<br>Doors 2<br><br>Specs:<br>- GUARDS LSD<br>- CUP ARB &amp; Brakes<br><br>Physics - Shxqz<br>Tire base - Arch<br>Throttle Script - JPG18, SwitchPro, ustahl<br>Sound - KCMIRO",
   "tags": [
@@ -681,7 +681,7 @@
   ],
   "country": "Germany",
   "author": "IFSO & Shxqz",
-  "version": "2025-05-25",
+  "version": "2025-06-08",
   "url": null,
   "year": 2009
 }

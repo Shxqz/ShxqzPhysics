@@ -27,3 +27,6 @@ Everything else by original mod developers
 - adjusted tire tempreatures
 - added dynamic downforce
 - added Manthey Racing Version 
+
+2025-06-08
+- adjusted pressure grip gain

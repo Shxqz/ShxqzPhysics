@@ -18,3 +18,9 @@ Includes:
 Credits:
 Physics by Shxqz
 Everything else by original mod developers
+
+2025-06-08
+GT3 RS & GT2 RS:
+- adjusted tire load curves
+- adjusted tire temps
+- adjusted pressure grip gain 
