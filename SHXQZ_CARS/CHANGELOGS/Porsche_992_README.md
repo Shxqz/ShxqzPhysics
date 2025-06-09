@@ -30,3 +30,6 @@ Everything else by original mod developers
 
 2025-06-08
 - adjusted pressure grip gain
+
+2025-06-09
+- adjusted tire load curves
