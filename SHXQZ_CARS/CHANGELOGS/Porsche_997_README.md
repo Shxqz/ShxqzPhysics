@@ -28,3 +28,7 @@ GT3 RS & GT2 RS:
 2025-06-09
 GT3 RS & GT2 RS:
 - adjusted tire load curves
+
+2025-06-16
+GT2 RS:
+- adjusted brake temps, mu curve
