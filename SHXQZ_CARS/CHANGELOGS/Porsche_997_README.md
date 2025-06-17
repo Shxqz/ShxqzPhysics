@@ -32,3 +32,7 @@ GT3 RS & GT2 RS:
 2025-06-16
 GT2 RS:
 - adjusted brake temps, mu curve
+
+2025-06-17
+GT2 RS:
+- adjusted TC

@@ -10,7 +10,7 @@ Link: https://octaviauwu.carrd.co/
 !!!IMPORTANT!!!
 
 Includes:
-992 GT3 RS Weissach Package
+992 GT3 RS Weissach Package & 992 GT3 RS Manthey Racing
 
 Credits:
 Physics by Shxqz
