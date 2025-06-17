@@ -36,3 +36,7 @@ GT2 RS:
 2025-06-17
 GT2 RS:
 - adjusted TC
+
+2025-06-17_A
+GT2 RS:
+- changed Balance bar adjustment
