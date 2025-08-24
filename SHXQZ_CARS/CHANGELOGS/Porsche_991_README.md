@@ -11,3 +11,14 @@ Includes:
 Credits:
 Physics by Shxqz
 Everything else by original mod developers
+
+2025-08-24:
+
+* added LC
+* changed tire thermals
+* changed load curves
+* changed Brakes
+* changed Wheel inertia
+
+
+

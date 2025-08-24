@@ -1,7 +1,7 @@
 {
   "name": "Porsche 997.2 GT2 RS",
   "brand": "Porsche",
-  "description": "Commissioned by Shxqz<br><br>Features:<br><br>Extra A - Fog lights<br>Extra B - Interior light<br><br>Credits:<br><br>Base model - Gran Turismo 7/Forza Motorsport 7<br>Physics - Shxqz<br>Sound - Vilau<br><br>Brand Porsche<br>Model 911<br>Generation 911 (997, facelift 2008)<br>Modification (Engine) GT2 RS 3.6 (620 Hp)<br>Start of production 2009 year<br>End of production 2011 year<br>Powertrain Architecture Internal Combustion engine<br>Body type Coupe<br>Seats 2-4<br>Doors 2<br><br>Specs:<br>- KW Clubsport Coilovers 1-19clicks; 0 is for the stock gt2rs dampers<br>- GT3 Cup ARB, Brakes <br>- GUARDS LSD<br><br>changelog:<br>v1.0<br>- initial release<br>v1.1 <br>- changed Brakes<br>- changed tires<br>- added Throttle.lua by SwitchPro, Ustahl &amp; JPG_18<br>- added Turbo.lua by Ustahl<br>- removed launch Control, as it led to compatibility issues<br>- removed engine Maps<br>v1.2 - 2025-05-07<br>- fixed aero<br>- adjusted tires<br>v1.3 - 2025-05-21<br>- fixed autoshift<br>- added cphys abs - car now requires csp 0.2.8+<br>- changed tire load curves<br>- adjusted brakes",
+  "description": "Commissioned by Shxqz<br><br>Features:<br><br>Extra A - Fog lights<br>Extra B - Interior light<br><br>Credits:<br><br>Base model - Gran Turismo 7/Forza Motorsport 7<br>Physics - Shxqz<br>Sound - Vilau<br><br>Brand Porsche<br>Model 911<br>Generation 911 (997, facelift 2008)<br>Modification (Engine) GT2 RS 3.6 (620 Hp)<br>Start of production 2009 year<br>End of production 2011 year<br>Powertrain Architecture Internal Combustion engine<br>Body type Coupe<br>Seats 2-4<br>Doors 2<br><br>Specs:<br>- KW Clubsport Coilovers 1-19clicks; 0 is for the stock gt2rs dampers<br>- GT3 Cup ARB, Brakes <br>- GUARDS LSD<br><br>changelog:<br>v1.0<br>- initial release<br>v1.1 <br>- changed Brakes<br>- changed tires<br>- added Throttle.lua by SwitchPro, Ustahl &amp; JPG_18<br>- added Turbo.lua by Ustahl<br>- removed launch Control, as it led to compatibility issues<br>- removed engine Maps<br>v1.2 - 2025-05-07<br>- fixed aero<br>- adjusted tires<br>v1.3 - 2025-05-21<br>- fixed autoshift<br>- added cphys abs - car now requires csp 0.2.8+<br>- changed tire load curves<br>- adjusted brakes<br>further changelog see github: https://github.com/Shxqz/ShxqzPhysics/tree/main",
   "tags": [
     "#Supercars",
     "rwd",
@@ -509,7 +509,7 @@
   ],
   "country": "Germany",
   "author": "Jugee8 & Shxqz",
-  "version": "2025-06-17_A",
+  "version": "2025-08-24",
   "url": "https://jugee8.gumroad.com/",
   "year": 2011
 }
