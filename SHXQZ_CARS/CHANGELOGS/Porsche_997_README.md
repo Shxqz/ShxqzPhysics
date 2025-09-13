@@ -2,10 +2,11 @@
 
 Shaders patch 0.2.8+ required!
 Requires
-- Porsche 997.2 GT3 '09 \& GT3 RS by Ibseo
-Link: https://ifso.gumroad.com/l/bieuswg?layout=profile
-- Porsche 997.2 GT2 RS by Jugee8
-Link: https://jugee8.gumroad.com/l/windowmaker?layout=profile
+
+* Porsche 997.2 GT3 '09 \& GT3 RS by Ibseo
+  Link: https://ifso.gumroad.com/l/bieuswg?layout=profile
+* Porsche 997.2 GT2 RS by Jugee8
+  Link: https://jugee8.gumroad.com/l/windowmaker?layout=profile
 
 
 
@@ -58,4 +59,18 @@ GT3, GT3 RS \& GT2RS:
 
 GT3 RS \& GT2 RS:
 
-* Fixed wheelbase according to Porsche Service manual
+* Fixed wheelbase according to Porsche Service Manual
+
+2025-09-08
+
+GT2 RS:
+
+* changed cgh \& weight Distribution
+* changed Suspension coords
+* changed spring and arb rates
+* changed steering racktravel
+* changed aero
+* changed static alignment
+* adjusted Brakes
+* adjusted tire temps
+* adjusted mu curve
