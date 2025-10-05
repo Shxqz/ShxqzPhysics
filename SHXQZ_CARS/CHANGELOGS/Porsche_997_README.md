@@ -74,3 +74,7 @@ GT2 RS:
 * adjusted Brakes
 * adjusted tire temps
 * adjusted mu curve
+
+2025-10-05
+
+* fixed arb flipping on hard compression
