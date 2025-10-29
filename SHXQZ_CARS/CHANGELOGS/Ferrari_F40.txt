@@ -1,0 +1,36 @@
+!!!IMPORTANT!!!
+Shaders patch 0.2.8+ required!
+Requires
+⦁	Ferrari F40 '92 by KS
+!!!IMPORTANT!!!
+Includes:
+F40
+Credits:
+Physics by Shxqz
+Everything else by original mod developers
+
+The car is based on the 2022-01-02 version of JPG&Arch, so I wanna say my thanks to those two. 
+
+2025-06-19
+- added throttle.lua by SwitchPro&JPG
+- adjusted dampers
+- remeasured suspension and converted to cosmic
+- adjusted tires (thx for the load curve helper Arch)
+- added realfeel FFB as well as racktravel 
+- added pedal ratio to brakes
+- added bumpstop luts
+
+2025-06-20
+- adjusted redline
+- added soft boost cut at 7812rpm 
+- added BOV
+- fixed Speedo
+- changed static pressure & tire spring rate so it matches
+
+2025-06-21
+- adjusted front&rear suspension geo
+- added rear UCA Bushing
+- adjusted racktravel
+
+2025-10-29
+- moved to github

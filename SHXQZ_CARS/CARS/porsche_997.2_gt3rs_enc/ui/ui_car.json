@@ -14,10 +14,10 @@
   "specs": {
     "bhp": "450 bhp",
     "torque": "443 Nm",
-    "weight": "1360kg",
+    "weight": "1365",
     "topspeed": "310km/h",
     "acceleration": "3.9s 0-100",
-    "pwratio": "3.02 kg/hp"
+    "pwratio": "3.03 kg/hp"
   },
   "torqueCurve": [
     [
@@ -681,7 +681,7 @@
   ],
   "country": "Germany",
   "author": "IFSO & Shxqz",
-  "version": "2025-08-24",
+  "version": "2025-10-26",
   "url": null,
   "year": 2009
 }

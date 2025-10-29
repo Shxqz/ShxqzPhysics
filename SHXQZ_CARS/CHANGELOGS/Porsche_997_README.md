@@ -78,3 +78,21 @@ GT2 RS:
 2025-10-05
 
 * fixed arb flipping on hard compression
+
+2025-10-29
+
+GT2 RS: 
+
+* fixed Setup Options
+
+GT3 RS:
+
+* changed cgh \& weight Distribution
+* changed Suspension coords
+* changed spring and arb rates
+* changed steering racktravel
+* changed aero
+* changed static alignment
+* adjusted Brakes
+* adjusted tire temps
+* adjusted mu curve

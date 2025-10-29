@@ -7,6 +7,11 @@ U have to have the not data locked 3d model, request it from whistleblower on di
 Requires Porsche 911 GT3 RS (992.1) MR by Cotton
 Link: https://octaviauwu.carrd.co/
 
+Requires Porsche 992 GT3 Cup by Bonny
+Link: https://bny.gumroad.com/
+
+
+
 !!!IMPORTANT!!!
 
 
@@ -49,3 +54,15 @@ Everything else by original mod developers
 * corrected aero
 * adjusted differential
 * adjusted TC1\&TC2
+
+2025-10-29
+
+* 992 GT3 RS 
+  adjusted tire load curves
+  adjusted Suspension geo
+  added PTV+
+  added Launch Control
+  adjusted Brakes
+  adjusted TC
+  
+* added 992.1 GT3 Cup
