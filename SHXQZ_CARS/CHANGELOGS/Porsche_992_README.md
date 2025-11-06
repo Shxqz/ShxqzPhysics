@@ -57,12 +57,29 @@ Everything else by original mod developers
 
 2025-10-29
 
-* 992 GT3 RS 
+* 992 GT3 RS
   adjusted tire load curves
   adjusted Suspension geo
   added PTV+
   added Launch Control
   adjusted Brakes
   adjusted TC
-  
 * added 992.1 GT3 Cup
+
+2025-11-06
+
+992.1 GT3 RS
+
+* adjusted tire load curve
+* changed PTV+ to PTV and added back static diff ramps
+* fixed missing brake temp curve
+* adjusted tire temps
+* adjusted abs
+* added aeromap / adjusted aero -> moved to lua
+
+992.1 GT3 Cup
+
+* adjusted abs
+* added aeromap
+* adjusted tyres
+* adjusted brake temps

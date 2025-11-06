@@ -81,7 +81,7 @@ GT2 RS:
 
 2025-10-29
 
-GT2 RS: 
+GT2 RS:
 
 * fixed Setup Options
 
@@ -96,3 +96,9 @@ GT3 RS:
 * adjusted Brakes
 * adjusted tire temps
 * adjusted mu curve
+
+2025-11-06
+
+GT2 RS:
+
+* added aero map

@@ -34,3 +34,6 @@ The car is based on the 2022-01-02 version of JPG&Arch, so I wanna say my thanks
 
 2025-10-29
 - moved to github
+
+2025-11-06
+- fixed .acd
