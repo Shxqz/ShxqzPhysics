@@ -102,3 +102,4 @@ GT3 RS:
 GT2 RS:
 
 * added aero map
+* adjusted brake and tire temps
