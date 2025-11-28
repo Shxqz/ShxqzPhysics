@@ -29,3 +29,4 @@ Everything else by original mod developers
 * adjusted powersteering
 * changed springrates
 * changed dampers (not final)
+* fixed damper length

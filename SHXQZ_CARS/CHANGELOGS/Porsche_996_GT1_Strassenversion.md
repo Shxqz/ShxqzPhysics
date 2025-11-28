@@ -6,7 +6,7 @@ Requires
 
 ⦁	Porsche 996 GT1 Straßenversion by Crash
 
-Link: There is currently no Link to a non data encrypted version, you'll have to find it yourself 
+Link: There is currently no Link to a non data encrypted version, you'll have to find it yourself
 
 !!!IMPORTANT!!!
 
@@ -26,4 +26,5 @@ Everything else by original mod developers
 
 2025-11-28
 
-* changed zero position
+* changed zero Position
+* fixed damper length

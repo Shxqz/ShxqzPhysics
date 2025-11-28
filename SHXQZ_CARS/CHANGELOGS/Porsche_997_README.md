@@ -115,4 +115,5 @@ GT3 RS:
 
 GT2 RS \& GT3 RS
 
-* changed Zero position
+* changed Zero Position
+* fixed damper length
