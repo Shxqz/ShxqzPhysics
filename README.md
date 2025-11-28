@@ -16,4 +16,4 @@ Please respect my wishes. -Shxqz (Shxqz on discord)
 
 Use CSP 0.2.9+
 
-BTW I'm accepting comissions as of November, for more info DM me on Discord
+BTW I'm accepting commissions as of November, for more info DM me on Discord
