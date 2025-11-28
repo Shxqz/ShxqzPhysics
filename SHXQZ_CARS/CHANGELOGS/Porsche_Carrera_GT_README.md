@@ -30,3 +30,7 @@ Everything else by original mod developers
 
 * adjusted brake and tire temps
 * added aeromap
+
+2025-11-28
+
+* changed Zero position

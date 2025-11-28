@@ -103,3 +103,16 @@ GT2 RS:
 
 * added aero map
 * adjusted brake and tire temps
+
+2025-11-08
+
+GT3 RS:
+
+* added aero map
+* adjusted brake and tire temps
+
+2025-11-28
+
+GT2 RS \& GT3 RS
+
+* changed Zero position

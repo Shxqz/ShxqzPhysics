@@ -1,5 +1,5 @@
 {
-  "name": "Porsche 992 GT3 Cup",
+  "name": "Porsche 992.1 GT3 Cup",
   "brand": "Porsche",
   "description": "The Porsche 992 Cup is the racing version of the iconic Porsche 911, designed specifically for the Porsche Carrera Cup series. With its stripped-down design and lightweight construction, it&#39;s built for maximum performance on the track. Powered by a 3.8-liter six-cylinder boxer engine producing around 510 horsepower, the 992 Cup delivers exceptional driving dynamics and precise handling. It is equipped with specially developed Michelin N3 tires, designed to offer optimal grip and performance under racing conditions. Combining cutting-edge technology with Porsche&#39;s racing philosophy, it focuses on efficiency, stability, and speed, excelling on both tight corners and high-speed straights. A true race car, engineered to push every detail to its performance limits.<br><br>Credits: <br><br>3D work and convert: Bonny<br>MDK Skins: MrGlide https://www.overtake.gg/members/martinez_4313.1070479/<br>Sound: LSM (including start procedure, hold throttle and brake) https://www.overtake.gg/downloads/authors/soul_evolutionlg.1565986/<br>Morale support: Cerberus<br>Tyres by Mediiza https://www.overtake.gg/members/mediiza-designs.1033194/#resources (Thanks for everything)<br>Physics by Shxqz<br><br>Feedback and beta tests by BNY Cord. and certain members from the CJ community.<br><br>EXTRA A -&gt; switch oil temps for fuel values<br>EXTRA B -&gt; turn on rainlight<br>EXTRA C -&gt; turn on bumper DRL<br>EXTRA D -&gt; Activate Launch Control",
   "tags": [
@@ -277,6 +277,6 @@
   "country": "Germany",
   "year": 2021,
   "author": "Bonny & Shxqz",
-  "version": "1 / 2025-11-06",
+  "version": "1 / 2025-11-28",
   "url": "https://bny.gumroad.com/"
 }

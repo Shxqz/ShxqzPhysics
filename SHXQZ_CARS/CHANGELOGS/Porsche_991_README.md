@@ -20,5 +20,12 @@ Everything else by original mod developers
 * changed Brakes
 * changed Wheel inertia
 
+2025-11-28
 
-
+* fixed Zero Position
+* changed tire thermals
+* changed load curves
+* adjusted Brakes
+* adjusted powersteering
+* changed springrates
+* changed dampers (not final)

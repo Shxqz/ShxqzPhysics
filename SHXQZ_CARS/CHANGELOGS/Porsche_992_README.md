@@ -83,3 +83,35 @@ Everything else by original mod developers
 * added aeromap
 * adjusted tyres
 * adjusted brake temps
+
+2025-11-08
+
+992.1 GT3 RS
+
+* fixed wrong damper kinematic Points
+* fixed wrong pressure sum
+
+992.1 GT3 RS MR
+
+* applied changes from GT3 RS
+
+2025-11-27
+
+992.1 GT3 RS \& MR
+
+* fixed wrong UCA inboard Point
+* changed damper Adjustment range
+* adjusted aeromap
+* adjusted tire Parameters
+* adjusted brake thermals
+* added Collider for diffuser and underbody Scoops
+* changed ARB to cosmic
+* added Chassis flex in Torsion and bowing
+* changed tire load curves
+* changed powersteering
+
+2025-11-28
+
+all cars
+
+* changed Zero position

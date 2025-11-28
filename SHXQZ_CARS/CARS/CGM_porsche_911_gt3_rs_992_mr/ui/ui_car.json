@@ -1,6 +1,6 @@
 {
   "name": "Porsche 911 GT3 RS MR (992.1)",
-  "parent": "mmw_porsche_911_gt3_rs_992",
+  "parent": "mmw_porsche_911_gt3_rs_992_wp",
   "brand": "Porsche",
   "description": "The stripped-out, track-focussed Porsche 911 GT3 RS is back. This new 992-generation model packs a plethora of motorsport-inspired upgrades, including aerodynamic tweaks borrowed from Formula 1, new suspension components, chassis mods and a more powerful naturally aspirated engine.The new Porsche 911 GT3 RS is as lairy-looking as the standard 911 is sensible and staid. It’s covered in aerodynamic flicks and fins inspired by the GT3 R racing car and comes with a 997-inspired look-at-me red livery.The new front splitter, bonnet vents, side skirts, vertical fins all play their part in producing as much downforce as possible, but the star of the show is the new rear wing.It’s the largest ever fitted to a roadgoing 911 and the first to ever extend above the car’s roof.It’s also fitted with an F1-style drag-reduction system (DRS) that uses hydraulic rams to open and close a wing flap that helps boost top speed or increase downforce.<br><br>Manthey kit by Cotton<br><br>EXTRA E: HIDE AND UNHIDE GT3RS TEXT ON SIDE<br>EXTRA F: HIDE AND UNHIDE WEISSACH RIMS<br><br>Physics by Shxqz",
   "tags": [
@@ -547,6 +547,6 @@
   "country": "Germany",
   "year": 2022,
   "author": "Cotton & Shxqz",
-  "version": "2025-07-23",
+  "version": "2025-11-27",
   "url": null
 }
