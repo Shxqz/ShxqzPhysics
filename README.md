@@ -15,3 +15,5 @@ ShxqzPhysics © 2025 by Shxqz is licensed under CC BY-NC-ND 4.0. To view a copy 
 Please respect my wishes. -Shxqz (Shxqz on discord)
 
 Use CSP 0.2.9+
+
+BTW I'm accepting comissions as of November, for more info DM me on Discord
