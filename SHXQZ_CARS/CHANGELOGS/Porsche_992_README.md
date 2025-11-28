@@ -117,3 +117,4 @@ all cars
 * changed Zero Position
 * removed preload on diff from road cars
 * changed dampers
+* fixed damper lenghts
