@@ -114,4 +114,6 @@ Everything else by original mod developers
 
 all cars
 
-* changed Zero position
+* changed Zero Position
+* removed preload on diff from road cars
+* changed dampers
