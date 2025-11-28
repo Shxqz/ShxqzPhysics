@@ -118,3 +118,4 @@ all cars
 * removed preload on diff from road cars
 * changed dampers
 * fixed damper lenghts
+* changed Setup naming to PASM

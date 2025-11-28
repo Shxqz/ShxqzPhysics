@@ -30,3 +30,4 @@ Everything else by original mod developers
 * changed springrates
 * changed dampers (not final)
 * fixed damper length
+* changed damping
