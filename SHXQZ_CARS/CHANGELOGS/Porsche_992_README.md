@@ -119,3 +119,11 @@ all cars
 * changed dampers
 * fixed damper lenghts
 * changed Setup naming to PASM
+
+2025-11-30
+
+992.1 GT3 RS \& MR
+
+* changed rev limiter
+* changed overrev max
+* changed up/downshift
