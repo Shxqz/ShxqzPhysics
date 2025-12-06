@@ -33,4 +33,8 @@ Everything else by original mod developers
 
 2025-11-28
 
-* changed Zero position
+* changed Zero Position
+
+2025-12-06
+
+* updated dampers

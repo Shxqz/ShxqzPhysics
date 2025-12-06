@@ -127,3 +127,9 @@ all cars
 * changed rev limiter
 * changed overrev max
 * changed up/downshift
+
+2025-12-06
+
+all cars
+
+* changed damping curves
