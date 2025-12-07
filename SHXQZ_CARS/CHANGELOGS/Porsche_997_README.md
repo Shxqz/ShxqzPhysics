@@ -117,3 +117,9 @@ GT2 RS \& GT3 RS
 
 * changed Zero Position
 * fixed damper length
+
+2025-12-07
+
+GT2 RS \& GT3 RS
+
+* changed damper settings
