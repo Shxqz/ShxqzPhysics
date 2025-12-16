@@ -68,3 +68,5 @@ all cars
 * disabled rack friction
 * changed powersteering
 * adjusted tyres
+* adjusted aero
+* adjusted graphics offset
