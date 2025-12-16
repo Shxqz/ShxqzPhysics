@@ -16,10 +16,10 @@
   "specs": {
     "bhp": "701 bhp",
     "torque": "777 Nm",
-    "weight": "1470 kg",
+    "weight": "1460 kg",
     "topspeed": "340 km/h",
     "acceleration": "2.8 s 0–100",
-    "pwratio": "2.1 kg/hp"
+    "pwratio": "2.08 kg/hp"
   },
   "torqueCurve": [
     [
@@ -596,7 +596,7 @@
   "country": "Germany",
   "year": 2018,
   "author": "Binary Motors(Jerry Wei) & Shxqz",
-  "version": "1.1 / 2025-12-06",
+  "version": "1.1 / 2025-12-16",
   "url": "https://www.patreon.com/user?u=53932550",
   "parent": "shxqz_porsche_991.2_gt2_rs_us"
 }

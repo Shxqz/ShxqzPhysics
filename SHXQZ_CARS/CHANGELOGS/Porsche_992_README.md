@@ -133,3 +133,12 @@ all cars
 all cars
 
 * changed damping curves
+
+2025-12-16
+
+992.1 GT3 RS \& MR
+
+* adjusted Brakes
+* disabled rack friction
+* adjusted tyres
+* changed powersteering

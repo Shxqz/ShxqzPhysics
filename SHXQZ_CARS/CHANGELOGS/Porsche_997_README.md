@@ -122,4 +122,12 @@ GT2 RS \& GT3 RS
 
 GT2 RS \& GT3 RS
 
-* changed damper settings
+* changed damper Settings
+
+2025-12-16
+GT2 RS \& GT3 RS
+
+* updated Brakes
+* updated tyres
+* disabled rack friction
+* changed powersteering

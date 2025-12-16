@@ -38,3 +38,9 @@ Everything else by original mod developers
 2025-12-06
 
 * updated dampers
+
+2025-12-16
+
+* updated Brakes
+* changed powersteering
+* updated tyres

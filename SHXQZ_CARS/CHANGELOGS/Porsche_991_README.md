@@ -58,5 +58,13 @@ Everything else by original mod developers
 
 all cars
 
-changed damping curves
+* changed damping curves
 
+2025-12-16
+
+all cars
+
+* adjusted Brakes
+* disabled rack friction
+* changed powersteering
+* adjusted tyres
