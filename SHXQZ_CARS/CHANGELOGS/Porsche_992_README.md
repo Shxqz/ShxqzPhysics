@@ -142,3 +142,9 @@ all cars
 * disabled rack friction
 * adjusted tyres
 * changed powersteering
+
+2025-12-20
+
+all cars
+
+* changed bumpstop gap

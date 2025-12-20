@@ -131,3 +131,10 @@ GT2 RS \& GT3 RS
 * updated tyres
 * disabled rack friction
 * changed powersteering
+
+2025-12-20
+
+GT2 RS \& GT3 RS
+
+changed bumpstop gap
+

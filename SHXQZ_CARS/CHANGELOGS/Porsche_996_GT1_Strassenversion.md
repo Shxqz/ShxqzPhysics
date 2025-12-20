@@ -28,3 +28,7 @@ Everything else by original mod developers
 
 * changed zero Position
 * fixed damper length
+
+2025-12-20
+
+* changed bumpstop gap

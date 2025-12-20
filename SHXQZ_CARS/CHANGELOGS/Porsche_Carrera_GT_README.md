@@ -44,3 +44,7 @@ Everything else by original mod developers
 * updated Brakes
 * changed powersteering
 * updated tyres
+
+2025-12-20
+
+* changed bumpstop gap

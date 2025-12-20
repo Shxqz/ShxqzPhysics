@@ -69,4 +69,10 @@ all cars
 * changed powersteering
 * adjusted tyres
 * adjusted aero
-* adjusted graphics offset
+* adjusted graphics Offset
+
+2025-12-20
+
+all cars
+
+* changed bumpstop gap
