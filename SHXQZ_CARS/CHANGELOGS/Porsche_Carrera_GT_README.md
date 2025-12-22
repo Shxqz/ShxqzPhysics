@@ -48,3 +48,8 @@ Everything else by original mod developers
 2025-12-20
 
 * changed bumpstop gap
+
+2025-12-22
+
+* changed cog height
+* changed car polar inertia 

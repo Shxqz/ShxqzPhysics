@@ -148,3 +148,16 @@ all cars
 all cars
 
 * changed bumpstop gap
+
+2025-12-22
+
+992.1 GT3 RS \& MR
+
+* changed cog height
+* changed car inertia \& weight
+* fixed aero logic
+* changed drag
+* changed engine curve
+* adjusted tyres
+* changed cup2r tyre wear
+* removed Chassis flex

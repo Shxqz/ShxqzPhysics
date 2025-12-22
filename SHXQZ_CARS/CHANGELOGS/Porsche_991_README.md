@@ -76,3 +76,10 @@ all cars
 all cars
 
 * changed bumpstop gap
+
+2025-12-20
+
+all cars
+
+* changed cog
+* changed car polar inertia

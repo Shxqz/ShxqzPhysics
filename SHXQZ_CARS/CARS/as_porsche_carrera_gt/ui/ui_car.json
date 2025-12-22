@@ -20,10 +20,10 @@
   "specs": {
     "bhp": "628 bhp",
     "torque": "593 Nm",
-    "weight": "1350kg",
+    "weight": "1419kg",
     "topspeed": "330+km/h",
     "acceleration": "3.9s",
-    "pwratio": "2.15 kg/hp"
+    "pwratio": "2.26 kg/hp"
   },
   "torqueCurve": [
     [
@@ -767,7 +767,7 @@
   ],
   "country": "Germany",
   "author": "Adriaan (MNBA)",
-  "version": "V 1.1 - 2025 CSP V2 2025-12-20",
+  "version": "V 1.1 - 2025 CSP V2 2025-12-22",
   "url": "www.patreon.com/mnba",
   "year": 2004
 }

@@ -136,5 +136,14 @@ GT2 RS \& GT3 RS
 
 GT2 RS \& GT3 RS
 
-changed bumpstop gap
+* changed bumpstop gap
+
+2025-12-22
+
+GT2 RS 
+
+* changed cog height
+* changed car polar inertia 
+
+
 
