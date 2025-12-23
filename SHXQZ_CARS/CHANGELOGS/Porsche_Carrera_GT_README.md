@@ -52,4 +52,8 @@ Everything else by original mod developers
 2025-12-22
 
 * changed cog height
-* changed car polar inertia 
+* changed car polar inertia
+
+2025-12-23
+
+* changed brake booster
