@@ -140,10 +140,15 @@ GT2 RS \& GT3 RS
 
 2025-12-22
 
-GT2 RS 
+GT2 RS
 
 * changed cog height
-* changed car polar inertia 
+* changed car polar inertia
 
+2025-12-23
 
+GT2 RS \& GT3 RS
 
+* changed powersteering
+* changed cog height
+* changed car polar inertia
