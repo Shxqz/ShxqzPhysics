@@ -158,3 +158,11 @@ GT2 RS \& GT3 RS
 GT2 RS \& GT3 RS
 
 * changed powersteering
+
+2025-12-25
+
+GT2 RS \& GT3 RS
+
+* changed powersteering
+* adjusted drag Offset
+* adjusted tyre load curves

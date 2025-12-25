@@ -83,3 +83,11 @@ all cars
 
 * changed cog
 * changed car polar inertia
+
+2025-12-25
+
+all cars
+
+* changed drag offset
+* changed car polar inertia
+* GT2 RS changed drag

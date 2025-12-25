@@ -161,3 +161,9 @@ all cars
 * adjusted tyres
 * changed cup2r tyre wear
 * removed Chassis flex
+
+2025-12-25
+
+all cars
+
+* changed drag offset
