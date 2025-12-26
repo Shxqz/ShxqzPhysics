@@ -91,3 +91,9 @@ all cars
 * changed drag offset
 * changed car polar inertia
 * GT2 RS changed drag
+
+2025-12-26
+
+GT2 RS MR
+
+* fixed typo in brakes

@@ -56,4 +56,9 @@ Everything else by original mod developers
 
 2025-12-23
 
-* changed brake booster
+* changed brake Booster
+
+2025-12-26
+
+* changed car polar inertia
+* changed drag offset

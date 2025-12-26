@@ -166,4 +166,10 @@ all cars
 
 all cars
 
-* changed drag offset
+* changed drag Offset
+
+2025-12-26
+
+992.1 GT3 Cup
+
+* changed inertia
